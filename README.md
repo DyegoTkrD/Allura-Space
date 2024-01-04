@@ -49,7 +49,7 @@ Acesse a aplicação em http://localhost:8000/ e o painel administrativo em http
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja melhorar o projeto, adicionar recursos ou corrigir problemas, siga as etapas abaixo:
 
-1. Faça um fork do projeto (https://github.com/seu-usuario/django-photo-gallery/fork)
+1. Faça um fork do projeto (https://github.com/DyegoTkrD/Allura-Space/fork)
 2. Crie uma branch para sua modificação (git checkout -b feature/nova-feature)
 3. Faça commit das suas alterações (git commit -am 'Adiciona nova feature')
 4. Faça push para a branch (git push origin feature/nova-feature)
