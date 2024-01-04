@@ -40,11 +40,11 @@ python manage.py runserver
 Acesse a aplicação em http://localhost:8000/ e o painel administrativo em http://localhost:8000/admin/ usando as credenciais do superusuário criado anteriormente.
 
 ## Funcionalidades
-Página Inicial: Visualize uma galeria de fotos em miniaturas.
-Upload de Fotos: Faça o upload de novas fotos diretamente no site.
-Detalhes da Foto: Visualize detalhes da foto, incluindo a data do upload e informações adicionais.
-Busca: Pesquise fotos com base em palavras-chave ou categorias.
-Painel Administrativo: Gerencie fotos, categorias e usuários por meio de um painel administrativo.
+- Página Inicial: Visualize uma galeria de fotos em miniaturas.
+- Upload de Fotos: Faça o upload de novas fotos diretamente no site.
+- Detalhes da Foto: Visualize detalhes da foto, incluindo a data do upload e informações adicionais.
+- Busca: Pesquise fotos com base em palavras-chave ou categorias.
+- Painel Administrativo: Gerencie fotos, categorias e usuários por meio de um painel administrativo.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja melhorar o projeto, adicionar recursos ou corrigir problemas, siga as etapas abaixo:
@@ -56,6 +56,6 @@ Contribuições são bem-vindas! Se você deseja melhorar o projeto, adicionar r
 5. Crie um novo Pull Request
 
 ## Tecnologias Utilizadas
-Django: O framework web utilizado para o backend.
-HTML/CSS/JavaScript: Tecnologias front-end para uma experiência de usuário interativa.
-SQLite: Banco de dados leve para armazenamento de dados.
+- Django: O framework web utilizado para o backend.
+- HTML/CSS/JavaScript: Tecnologias front-end para uma experiência de usuário interativa.
+- SQLite: Banco de dados leve para armazenamento de dados.
