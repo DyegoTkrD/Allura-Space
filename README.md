@@ -1,4 +1,4 @@
-# Django Photo Gallery
+# DjangoAlutaa Space
 
 Este é um projeto Django para criar uma galeria de fotos web. A aplicação permite aos usuários visualizar, carregar e compartilhar suas fotos de maneira fácil e eficiente.
 
